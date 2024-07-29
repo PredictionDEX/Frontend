@@ -1,0 +1,82 @@
+{
+    "availableGames": [
+        "football",
+        "nba",
+        "nfl",
+        "nhl",
+        "user-market"
+    ],
+    "zilliqa": {
+        "mainnet": "https: //api.zilliqa.com",
+        "testnet": "https: //dev-api.zilliqa.com"
+    },
+    "testnet": {
+        "Token": {
+            "base16": "0xc0824cffed69becb61742e553b0e8be96996df38",
+            "bech32": "zil1czpyellddxlvkct59e2nkr5ta95edhecsdfrmn",
+            "decimal": 1000000000
+        },
+        "Football": {
+            "base16": "0xe708214179086cf7aad1f08454e4d10b92b97730",
+            "bech32": "zil1uuyzzsteppk002k37zz9fex3pwftjaeslv5p48"
+        },
+        "NBA": {
+            "base16": "0xffed3cde8791ff461d86877d755e7fc9021b3470",
+            "bech32": "zil1llkneh58j8l5v8vxsa7h2hnleyppkdrs9k0kvr"
+        },
+        "NHL": {
+            "base16": "0xdf49bc8d6de256b2f618981099f462a6dcfa0ccb",
+            "bech32": "zil1maymertduftt9ascnqgfnarz5mw05rxtwhceya"
+        },
+        "NFL": {
+            "base16": "0xf67804b65a726e867b04bf4abf8ea6c245688bb6",
+            "bech32": "zil17euqfdj6wfhgv7cyha9tlr4xcfzk3zakxtvl7u"
+        },
+        "UserMarkets": {
+            "base16": "0x4256dc3a492dedb67236d7786a7abb00feaad460",
+            "bech32": "zil1gftdcwjf9hkmvu3k6aux574mqrl244rqzryzmh"
+        },
+        "Accumulator": {
+            "base16": "0x8E4010757008CE607b5e91a019Cd9C8126D03310"
+        },
+        "Reward": {
+            "base16": "0xba92403e57d2028a2cc9eeb79823879ee2002ac9",
+            "bech32": "zil1h2fyq0jh6gpg5txfa6mesgu8nm3qq2kf4mztxe"
+        }
+    },
+    "mainnet": {
+        "Token": {
+            "base16": "0x762438313e487d038b2462c4c15a34356bec5e64",
+            "bech32": "zil1wcjrsvf7fp7s8zeyvtzvzk35x447chny02zxjw",
+            "decimal": 1000000000
+        },
+        "Football": {
+            "base16": "0x85c19ddedffa653e957ff4f7ef801aab69b6430c",
+            "bech32": "zil1shqemhkllfjna9tl7nm7lqq64d5mvscv0xt6ha"
+        },
+        "NBA": {
+            "base16": "0xec608fa150b8b9ca2dad8c36ff4b335351d8e148",
+            "bech32": "zil1a3sglg2shzuu5tdd3sm07jen2dga3c2gtpm7me"
+        },
+        "NHL": {
+            "base16": "0x63841df6e32c0ae93b1c3d945606fc9d9117f099",
+            "bech32": "zil1vwzpmahr9s9wjwcu8k29vphunkg30uyenjzdxr"
+        },
+        "NFL": {
+            "base16": "0xc148d0053a212451e3f0b75f783c9b5fe31e46d1",
+            "bech32": "zil1c9ydqpf6yyj9rclska0hs0ymtl33u3k3cccfx8"
+        },
+        "UserMarkets": {
+            "base16": "0x425f522b18551114fb6b7e5192059e8cff45b577",
+            "bech32": "zil1gf04y2cc25g3f7mt0egeypv73nl5tdthzdqrnm"
+        },
+        "Accumulator": {
+            "bech32": "zil1mvmqdsdxgdfl0cc8u2kjjvtn903w8vss6cxhll",
+            "base16": "0xDb3606C1a64353f7E307e2aD2931732be2e3b210"
+        },
+        "Reward": {
+            "base16": "0x7eb3e5d141858f7b1926cbbe1a613ea25ee1141d",
+            "bech32": "zil106e7t52psk8hkxfxewlp5cf75f0wz9qa6dy448"
+        }
+    }
+}
